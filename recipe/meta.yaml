@@ -63,9 +63,3 @@ about:
   summary: 'GnuTLS is a secure communications library implementing the SSL, TLS and DTLS protocols'
   doc_url: http://www.gnutls.org/documentation.html
   dev_url: https://gitlab.com/gnutls/gnutls/tree/master
-
-extra:
-  recipe-maintainers:
-    - sachalau
-    - sdvillal
-    - scopatz
